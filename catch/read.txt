@@ -1,0 +1,1 @@
+  这是数据包捕捉模块的代码，pcap_findalldevs_ex()函数获取并打印网络设备列表；pcap_open函数打开选择的网络设备；pcap_freealldevs函数释放网络设备列表；pcap_loop函数捕获数据包；pcap_handler对数据包进行处理。  pcap_handler函数是下个模块的东西，所以还没有编写。此外还添加了一些和界面相关联的代码和存储数据包的代码。
