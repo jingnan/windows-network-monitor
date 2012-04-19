@@ -1,0 +1,31 @@
+﻿生成启动时间为 2012/4/15 23:07:46。
+     1>项目“C:\Users\jingnan\Desktop\mypcap\mypcap\mypcap.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\mypcap.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\mypcap.res" mypcap.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jingnan\Desktop\mypcap\Debug\mypcap.exe" /INCREMENTAL /NOLOGO wpcap.lib ws2_32.lib /MANIFEST /ManifestFile:"Debug\mypcap.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\jingnan\Desktop\mypcap\Debug\mypcap.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jingnan\Desktop\mypcap\Debug\mypcap.lib" /MACHINE:X86 Debug\mypcap.res
+         Debug\mypcap.exe.embed.manifest.res
+         Debug\mypcap.obj
+         Debug\mypcapDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mypcap.exe.embed.manifest" /manifest Debug\mypcap.exe.intermediate.manifest "D:\visual studio 2010\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         mypcap.vcxproj -> C:\Users\jingnan\Desktop\mypcap\Debug\mypcap.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\mypcap.unsuccessfulbuild”。
+         正在对“Debug\mypcap.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\jingnan\Desktop\mypcap\mypcap\mypcap.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.92
