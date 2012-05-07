@@ -1,0 +1,4 @@
+  这是数据包分析模块的代码。
+  此次代码前面是将数据捕捉和界面联结，但是捕捉分析数据还没有写入GUI中，所以生成的exe程序暂时看不出。
+   Protocol.h为各层网络协议头的实现。
+   cpp中lixsinff_CapThread是对分析后数据的处理。   lixsniff_updateNPacket()是更新统计数据函数。
